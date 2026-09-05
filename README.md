@@ -1,0 +1,2 @@
+# Mekanika-Python-
+pemograman komputer 
